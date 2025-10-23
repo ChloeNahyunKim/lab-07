@@ -2,7 +2,7 @@
 Android UI Testing - CMPUT 301 Lab 7   
 Compile SDK - 34
 
-# CMPUT 301 : Lab 6
+# CMPUT 301 : Lab 7
 
 ## Student Details
 
@@ -18,3 +18,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 | Student Name | CCID     |
 | ------------ | -------- |
 | `Chloe Kim`  | `nahyun3`|
+
