@@ -58,8 +58,5 @@ public class ShowActivityTest {
         onView(withId(R.id.button_back)).perform(click());
         // An element unique to MainActivity should be visible again:
         onView(withId(R.id.button_add)).check(matches(isDisplayed()));
-        // (Alternatively: pressBack(); then assert the same)
-        // pressBack();
-        // onView(withId(R.id.button_add)).check(matches(isDisplayed()));
     }
 }
